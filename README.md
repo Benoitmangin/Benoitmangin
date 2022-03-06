@@ -2,7 +2,7 @@
 - 👀 I’m interested in the front end developpement and the photography
 - 🌱 I’m currently learning several languages like Sass, javascript
 - 💞️ I’m looking to collaborate on one project for my training
-- 📫 How to reach me ...
+- 📫 How to reach me in my mail: benoitmangin@outlook.fr
 
 <!---
 Benoitmangin/Benoitmangin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
